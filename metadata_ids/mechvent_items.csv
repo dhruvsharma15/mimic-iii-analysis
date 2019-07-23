@@ -1,0 +1,82 @@
+# d_items → chartevents,
+itemid,label
+1,% Inspir. Time
+60,Auto-PEEP Level
+157,ETT [Mark]
+158,ETT Position Change
+218,High Insp. Pressure
+221,I:E Ratio
+223,I:E Ratio-TCPCV
+436,Low Insp. Pressure
+437,Low Peep
+444,Mean Airway Pressure
+445,Mech. Minute Volume
+448,Minute Volume
+449,Minute Volume (Set)
+450,Minute Volume(Obser)
+459,Neg Insp Force(>-25)
+467,O2 Delivery Device
+501,PCV Exh Vt (Obser)
+502,PCV Insp Vt (Obser)
+503,PCV Set Insp. Press
+505,PEEP
+506,PEEP Set
+535,Peak Insp. Pressure
+543,Plateau Pressure
+639,Sigh Tidal Volume
+640,Significant Events
+654,Spont. Tidal Volume
+667,TCPCV Apnea Settings
+668,TCPCV Fixed I Time
+669,TCPCV I:E Ratio
+670,TCPCV Insp. Pressure
+671,TCPCV Insp. Time
+672,TCPCV-MAP
+681,Tidal Volume
+682,Tidal Volume (Obser)
+683,Tidal Volume (Set)
+684,Tidal Volume (Spont)
+686,Total PEEP Level
+720,Ventilator Mode
+1211,Insp Time %
+1340,high minute volume
+1486,High Minute Volume
+1600,HIGH MINUTE VOLUME
+1655,Insp. Time
+1852,ETT rotation
+2000,Inspiratory Time
+3398,ETT (Re)Taped
+3399,ETT Changed
+3400,ETT Size
+3401,ETT Sx Color
+3402,ETT Sx Quality
+3403,ETT Sx Quantity
+3404,ETT Taped at (cm)
+3459,High Pressure Relief
+5865,APRV Pressure High
+5866,APRV Pressure Low
+8382,ETT [Location]
+220339,PEEP set
+224419,Negative Insp. Force
+224684,Tidal Volume (set)
+224685,Tidal Volume (observed)
+224686,Tidal Volume (spontaneous)
+224687,Minute Volume
+224695,Peak Insp. Pressure
+224696,Plateau Pressure
+224697,Mean Airway Pressure
+224700,Total PEEP Level
+224701,PSV Level
+224702,PCV Level (Avea)
+224705,P High (APRV)
+224706,P Low (APRV)
+224707,T High (APRV)
+224709,T Low (APRV)
+224738,Inspiratory Time
+224746,Transpulmonary Pressure (Exp. Hold)
+224747,Transpulmonary Pressure (Insp. Hold)
+224750,Nitric Oxide Tank Pressure
+226873,Inspiratory Ratio
+227187,Pinsp (Draeger only)
+227809,ETT Position Change
+227810,ETT Re-taped
